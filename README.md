@@ -1,5 +1,8 @@
+## Ernest Bekondo
+<!--
+**ebekondo/ebekondo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-# CareSync AI – Healthcare Documentation Platform
+## CareSync AI – Healthcare Documentation Platform
 
 ## Project Overview
 
