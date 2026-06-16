@@ -52,9 +52,7 @@ CareSync is a cloud-native healthcare application that enables caregivers to rec
 - Monitoring: Amazon CloudWatch
 - Security: AWS WAF + VPC
 
-## Repository
-
- https://github.com/vbanks-softcloud/CareSync
+## [CareSync Repository](https://github.com/vbanks-softcloud/CareSync)
 
 
 ## CareSync Application Dashboard
