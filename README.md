@@ -84,3 +84,7 @@ QA Engineer | CI/CD Contributor | DevOps Contributor
 ## Repository
 
 Team project completed as part of the Per Scholas AWS re/Start Program.
+
+
+<img width="1670" height="828" alt="app-dashboard png" src="https://github.com/user-attachments/assets/7f7b7b5e-1fe1-483d-bf06-8f1344c31866" />
+
