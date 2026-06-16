@@ -1,15 +1,15 @@
 ## Ernest Bekondo
 <!--
 **ebekondo/ebekondo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-Featured Project : CareSync
+# Featured Project : CareSync
 
 ## Cloud Based Clinical Documentation Platform
 
 CareSync is a cloud-native healthcare application that enables caregivers to record patient notes and securely store structured medical information. The application uses AWS cloud services, serverless architecture, and CI/CD automation to support scalable and secure deployments.
 
-# My Role: AWS DevOps & QA Engineer
+## My Role: AWS DevOps & QA Engineer
 
-# Technologies Used
+## Technologies Used
 
 - AWS Lambda
 - Amazon API Gateway
@@ -25,7 +25,7 @@ CareSync is a cloud-native healthcare application that enables caregivers to rec
 - TypeScript
 - React
 
-# Key Contributions
+## Key Contributions
 
 - Validated frontend and backend application builds.
 - Reviewed and tested GitHub Actions CI/CD workflows.
@@ -35,7 +35,7 @@ CareSync is a cloud-native healthcare application that enables caregivers to rec
 - Contributed architecture, deployment, database, and security documentation.
 - Assisted with deployment verification and quality assurance activities.
 
-# Key Achievements
+## Key Achievements
 
 - Improved deployment reliability through workflow validation and testing.
 - Identified deployment issues affecting backend services, related to Serverless Framework authentication.
@@ -43,7 +43,7 @@ CareSync is a cloud-native healthcare application that enables caregivers to rec
 - Added AWS WAF security documentation.
 - Supported CI/CD process improvements for team deployments.
 
-# AWS Architecture Components
+## AWS Architecture Components
 
 - Frontend: Amazon S3 + CloudFront
 - Authentication: Amazon Cognito
@@ -52,9 +52,9 @@ CareSync is a cloud-native healthcare application that enables caregivers to rec
 - Monitoring: Amazon CloudWatch
 - Security: AWS WAF + VPC
 
-# Repository
+## Repository
 
-https://github.com/vbanks-softcloud/CareSync
+ https://github.com/vbanks-softcloud/CareSync
 
 
 ## CareSync Application Dashboard
