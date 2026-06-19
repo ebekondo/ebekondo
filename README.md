@@ -54,6 +54,8 @@ CareSync is a cloud-native healthcare application that enables caregivers to rec
 
 ## [CareSync Repository](https://github.com/vbanks-softcloud/CareSync)
 
+## CareSync AWS System Architecture
+<img width="1158" height="648" alt="caresyn-aws-system-architecture" src="https://github.com/user-attachments/assets/d767ad05-6b11-42c8-bfe6-0df67e2a1016" />
 
 ## CareSync Application Dashboard
 <img width="1670" height="828" alt="app-dashboard png" src="https://github.com/user-attachments/assets/7f7b7b5e-1fe1-483d-bf06-8f1344c31866" />
