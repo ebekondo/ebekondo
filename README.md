@@ -75,7 +75,7 @@ CareSync is a cloud-native healthcare application that enables caregivers to rec
 ## AWS WAF
 <img width="1869" height="869" alt="aws-waf png" src="https://github.com/user-attachments/assets/d3191882-8dcf-46a7-87e3-114937e70c22" />
 
-## API 
+## APIs 
 <img width="1901" height="936" alt="api-gateway png" src="https://github.com/user-attachments/assets/4294a2b0-2f12-4adc-bdf9-e356250133f9" />
 
 ## Backend Build Validation
